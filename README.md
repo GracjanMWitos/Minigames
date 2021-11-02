@@ -1,0 +1,2 @@
+# Minigames
+Few easy games
